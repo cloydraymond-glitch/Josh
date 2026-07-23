@@ -13,7 +13,7 @@ PATTERSONHAULING.COM STATIC WEBSITE
 
 BUILD CONTENT
 - 39 indexable pages
-- 10 dedicated service pages
+- 9 dedicated service pages
 - 3 county hubs
 - 18 city/community pages
 - Responsive navigation and fixed mobile call button
